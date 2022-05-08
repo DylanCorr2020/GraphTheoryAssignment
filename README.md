@@ -1,6 +1,6 @@
 
 # Dylan Corr's Graph theory assigment github
-This is my graph theory module assignment readme. It contains two jupyter notebooks that explains how graph thory can be applied to sorting elements in an array, and to the graph pomorphism problem.
+This is my graph theory module assignment readme. It contains two jupyter notebooks that explains how graph thory can be applied to sorting elements in an array, and explaining the graph isomorphism problem.
 ## Heap Sort Notebook
 This jupyter notebook explains how graph thory can be applied to sorting elements in an array. 
 * Explanation of the Heap Sort algorithm
@@ -8,12 +8,16 @@ This jupyter notebook explains how graph thory can be applied to sorting element
 * Explanation of the computational complexity of Heap Sort.
 * Explanation of how graph theory is used in Heap Sort.
 ## Graph Isomorphism Problem Notebook
-This jupyter notebook explains how graph thory can be applied to the Graph pomorphism problem.
+This jupyter notebook explains how graph thory can be applied to the Graph isomorphism problem.
 * Explanation of the Graph Iomorphism Problem.
 * Explanation of how graphs can be represented in data structures.
 * Python function implementing an algorithm to determine if two graphs are isomorphic or not.
 * Discussion of the computational complexity of the Graph Isomorphism Problem.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5153db5d79ff739095294b3b64f84fc276ecf4e6
 ## Running Jupyter Notebooks
 *Install Anaconda https://docs.anaconda.com/anaconda/install/index.html
 *Clone the repository use command git clone https://github.com/DylanCorr2020/GraphTheoryAssignment
@@ -53,3 +57,9 @@ A distinction is made between undirected graphs, where edges link two vertices s
 
 # References 
 https://www.javatpoint.com/graph-theory-applications
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 5153db5d79ff739095294b3b64f84fc276ecf4e6
