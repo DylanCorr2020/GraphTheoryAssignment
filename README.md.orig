@@ -14,7 +14,10 @@ This jupyter notebook explains how graph thory can be applied to the Graph isomo
 * Python function implementing an algorithm to determine if two graphs are isomorphic or not.
 * Discussion of the computational complexity of the Graph Isomorphism Problem.
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> 5153db5d79ff739095294b3b64f84fc276ecf4e6
 ## Running Jupyter Notebooks
 *Install Anaconda https://docs.anaconda.com/anaconda/install/index.html
 *Clone the repository use command git clone https://github.com/DylanCorr2020/GraphTheoryAssignment
@@ -54,4 +57,9 @@ A distinction is made between undirected graphs, where edges link two vertices s
 
 # References 
 https://www.javatpoint.com/graph-theory-applications
+<<<<<<< HEAD
+=======
 
+
+
+>>>>>>> 5153db5d79ff739095294b3b64f84fc276ecf4e6
