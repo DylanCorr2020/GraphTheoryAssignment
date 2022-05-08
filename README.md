@@ -34,7 +34,7 @@ A graph is made up of vertices (also called nodes or points) which are connected
 A distinction is made between undirected graphs, where edges link two vertices symmetrically, and directed graphs, where edges link two vertices asymmetrically
 
 ## Applications
-## computer science 
+### Computer science 
 * Graph theory is used for the study of algorithms.
 * To define the flow of computation.
 * To represent networks of communication.
@@ -42,7 +42,7 @@ A distinction is made between undirected graphs, where edges link two vertices s
 * Find the shortest path or road in network.
 * In Google Maps, various locations are represented as vertices or nodes and the roads are represented as edges and graph theory is used to find the shortest path   between two nodes.
 
-## Other Applications
+### Other Applications
 * Mathematics
 * Social Networks 
 * Biology
