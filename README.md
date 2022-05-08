@@ -42,6 +42,16 @@ A distinction is made between undirected graphs, where edges link two vertices s
 * Find the shortest path or road in network.
 * In Google Maps, various locations are represented as vertices or nodes and the roads are represented as edges and graph theory is used to find the shortest path   between two nodes.
 
+## Other Applications
+* Mathematics
+* Social Networks 
+* Biology
+* Electrical Engineering
+* Linguistics
+* Chemistry 
+* Physics
+* .....
+
 # References 
 https://www.javatpoint.com/graph-theory-applications
 
